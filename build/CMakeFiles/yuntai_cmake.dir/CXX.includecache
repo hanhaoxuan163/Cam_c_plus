@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/hhx/repository/project/c++test/src/HCNetSDK.h
+winsock2.h
+-
+windows.h
+-
+
+/home/hhx/repository/project/c++test/src/yuntai.cpp
+stdio.h
+-
+iostream
+-
+time.h
+-
+stdlib.h
+-
+HCNetSDK.h
+/home/hhx/repository/project/c++test/src/HCNetSDK.h
+

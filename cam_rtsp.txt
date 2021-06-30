@@ -1,0 +1,3 @@
+qiu_qiang_yi_ti_ji
+rtsp://admin:gyy123456@192.168.1.64:554/Streaming/Channels/101   #qiuji
+rtsp://admin:gyy123456@192.168.1.64:554/Streaming/Channels/201   #qiangji

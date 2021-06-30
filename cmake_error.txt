@@ -1,0 +1,3 @@
+/usr/bin/ld: cannot find -lSystemTransform
+/usr/bin/ld: skipping incompatible /home/nvidia/project/c++test/lib/libz.so when searching for -lz
+
